@@ -1,0 +1,8 @@
+README.md
+setup.py
+python_errorhandler/__init__.py
+python_errorhandler.egg-info/PKG-INFO
+python_errorhandler.egg-info/SOURCES.txt
+python_errorhandler.egg-info/dependency_links.txt
+python_errorhandler.egg-info/requires.txt
+python_errorhandler.egg-info/top_level.txt

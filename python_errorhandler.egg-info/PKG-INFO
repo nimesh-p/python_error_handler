@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: python-errorhandler
+Version: 1.5.0
+Summary: This Python package, 'python_errorhandler', simplifies error handling in your code. You no longer need to write try-catch blocks for every function. Instead, you can import this package and use the included decorator with your functions.    The decorator allows you to specify a custom error message for better error handling and debugging.
+Author: Nimesh Prajapati
+Author-email: prajapatin953@gmail.com
+License: MIT
+Classifier: license :: MIT license
+Description-Content-Type: text/markdown
+Requires-Dist: Django
+Requires-Dist: djangorestframework
+
 This Python package, 'python_errorhandler', simplifies error handling in your code.
 
 The `python_errorhandler` package streamlines error handling in your Django projects by providing a convenient decorator that reduces the complexity of managing exceptions. This package is authored by Nimesh Prajapati (prajapatin953@gmail.com) and is currently at version 1.0.0.
